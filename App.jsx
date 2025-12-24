@@ -14,9 +14,6 @@ function App() {
     <main className="pt-16">
       <Navbar/>
       <Hero/>
-      <div className='h-dvh bg-black'>
-
-      </div>
     </main>
   )
 }
